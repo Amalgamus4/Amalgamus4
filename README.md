@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amalgamus4
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
