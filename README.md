@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Amalgamus4
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ryan.
+- 👀 I’m interested in computer science, software engineering, and embedded systems.
+- 🌱 I’m currently studying computer science at SNHU.
 
 <!---
 Amalgamus4/Amalgamus4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
